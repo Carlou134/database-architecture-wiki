@@ -417,4 +417,4 @@ Con los datos de ejemplo, el error 2 no cambia el resultado (no hay pedidos el 3
 
 ## Siguiente lección
 
-Con esto termina el módulo de consultas. El próximo módulo, **Índices y rendimiento**, retoma las consultas de este módulo para ver cómo las ejecuta el motor y cómo hacerlas rápidas. Está planificado.
+Con esto termina el módulo de consultas. El próximo módulo, [Índices y rendimiento](../04-indices-y-rendimiento/README.md), retoma las consultas de este módulo para ver cómo las ejecuta el motor y cómo hacerlas rápidas. Empieza por [Datos de volumen](../04-indices-y-rendimiento/00-Datos%20de%20volumen.md).

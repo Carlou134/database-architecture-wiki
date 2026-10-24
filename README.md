@@ -15,11 +15,13 @@ Todas las lecciones relacionales usan el mismo conjunto de datos, definido en [`
 | [01. Fundamentos](01-fundamentos/README.md) | SGBD, modelo relacional, tipos de datos, claves primarias y foráneas, restricciones, `NULL` y la lógica de tres valores |
 | [02. Diseño y modelado](02-diseno-y-modelado/README.md) | Proceso de diseño, modelo entidad-relación, cardinalidad, del ER a tablas, dependencias funcionales, 1FN a 5FN, desnormalización, patrones de modelado, convenciones de nombres |
 | [03. Consultas](03-consultas/README.md) | Entorno (SSMS, `sqlcmd`), `SELECT` y orden lógico, filtros, ordenamiento y paginación, funciones, agregados, `JOIN`, operaciones de conjuntos, subconsultas, CTE, funciones de ventana, modificación segura de datos, SQL con IA |
-| 04. Índices y rendimiento | Índices *clustered* y *non-clustered*, planes de ejecución, consultas SARGables, estadísticas |
-| 05. Transacciones y concurrencia | ACID, niveles de aislamiento, bloqueos, *deadlocks*, MVCC |
-| 06. NoSQL con MongoDB | Modelo documental, embeber frente a referenciar, índices, *aggregation pipeline*, transacciones |
+| [04. Índices y rendimiento](04-indices-y-rendimiento/README.md) | Datos de volumen, páginas y B-tree, índices *clustered*, *nonclustered*, compuestos, cubrientes y filtrados, planes de ejecución, estadísticas y *parameter sniffing*, consultas SARGables, mantenimiento de índices |
+| [05. Transacciones y concurrencia](05-transacciones-y-concurrencia/README.md) | ACID, niveles de aislamiento y anomalías, bloqueos y *hints*, versionado con RCSI y `SNAPSHOT`, *deadlocks*, manejo de errores, operaciones masivas en lotes |
+| [06. Programación en T-SQL](06-programacion-t-sql/README.md) | Vistas, procedimientos almacenados, funciones, *triggers*, tablas temporales y variables de tabla, cursores frente a conjuntos, SQL dinámico seguro |
+| [07. Monitoreo y administración](07-monitoreo-y-administracion/README.md) | DMVs, SQL Profiler y trazas, Extended Events, Query Store, SQL Server Agent, auditoría, workshop de tuning de punta a punta |
+| 08. NoSQL con MongoDB | Modelo documental, embeber frente a referenciar, índices, *aggregation pipeline*, transacciones |
 
-Planificado: vistas, procedimientos almacenados, funciones y *triggers*; seguridad y permisos; respaldos y recuperación.
+Planificado: seguridad y permisos; respaldos y recuperación.
 
 -----
 
