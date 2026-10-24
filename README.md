@@ -14,7 +14,7 @@ Todas las lecciones relacionales usan el mismo conjunto de datos, definido en [`
 | --- | --- |
 | [01. Fundamentos](01-fundamentos/README.md) | SGBD, modelo relacional, tipos de datos, claves primarias y foráneas, restricciones, `NULL` y la lógica de tres valores |
 | [02. Diseño y modelado](02-diseno-y-modelado/README.md) | Proceso de diseño, modelo entidad-relación, cardinalidad, del ER a tablas, dependencias funcionales, 1FN a 5FN, desnormalización, patrones de modelado, convenciones de nombres |
-| 03. Consultas | `SELECT`, filtros, ordenamiento, `JOIN`, `GROUP BY` y `HAVING`, subconsultas, CTE, funciones de ventana, `INSERT`/`UPDATE`/`DELETE` |
+| [03. Consultas](03-consultas/README.md) | Entorno (SSMS, `sqlcmd`), `SELECT` y orden lógico, filtros, ordenamiento y paginación, funciones, agregados, `JOIN`, operaciones de conjuntos, subconsultas, CTE, funciones de ventana, modificación segura de datos, SQL con IA |
 | 04. Índices y rendimiento | Índices *clustered* y *non-clustered*, planes de ejecución, consultas SARGables, estadísticas |
 | 05. Transacciones y concurrencia | ACID, niveles de aislamiento, bloqueos, *deadlocks*, MVCC |
 | 06. NoSQL con MongoDB | Modelo documental, embeber frente a referenciar, índices, *aggregation pipeline*, transacciones |

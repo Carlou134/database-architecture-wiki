@@ -404,4 +404,6 @@ Cuando hay dos FK hacia la misma tabla, la regla "la FK se llama igual que la PK
 
 ## Siguiente lección
 
-Con esto termina el módulo de diseño. El resultado de todo el módulo es el [esquema de ejemplo](../00-Esquema%20de%20ejemplo.md), que usan los módulos siguientes. El próximo módulo, **Consultas**, está planificado.
+Con esto termina el módulo de diseño. El resultado de todo el módulo es el [esquema de ejemplo](../00-Esquema%20de%20ejemplo.md), que usan los módulos siguientes. El próximo módulo empieza por el entorno de trabajo:
+
+[Entorno de trabajo](../03-consultas/00-Entorno%20de%20trabajo.md)
